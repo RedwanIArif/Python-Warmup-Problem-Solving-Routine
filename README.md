@@ -2,7 +2,7 @@
 
 **https://leetcode.com/studyplan/top-interview-150/**
 
-# Solve 3 problems daily. 
+# Solve 3 problems daily. So the routine ends in 30 days.
 
 **Don't Go out with friends aggressively. You have already wasted too much of your very limited time. The Brain will not take any new information after `30`.**
 
